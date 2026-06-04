@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/<your-username>/portfolio-website-devops.git'
+                git 'https://github.com/Niveditha-Aitha/portfolio-website-devops.git'
             }
         }
 
